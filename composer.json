@@ -1,5 +1,5 @@
 {
-    "name": "mossadal/math-parser",
+    "name": "jstudz81/math-parser",
     "description": "PHP parser for mathematical expressions, including elementary functions, variables and implicit multiplication. Also supports symbolic differentiation.",
     "keywords": ["parser", "mathematics" ],
     "homepage": "https://github.com/mossadal/math-parser",
