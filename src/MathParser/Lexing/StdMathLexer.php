@@ -137,5 +137,3 @@ class StdMathLexer extends Lexer
 
     }
 }
-
-
